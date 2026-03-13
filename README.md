@@ -1,4 +1,4 @@
-# Journal Recommender - 顶级期刊论文推荐系统
+# Journal Recommender - 期刊论文推荐系统
 
 [![版本](https://img.shields.io/badge/版本-1.0.0-blue.svg)](https://github.com)
 [![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://www.python.org/)
