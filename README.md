@@ -25,7 +25,7 @@ pip install requests
 
 ### 使用方法
 
-在 Claude Code / WorkBuddy 中使用：
+在 Claude Code / WorkBuddy / Openclaw / ... 中使用：
 
 ```
 每周顶刊论文推荐
